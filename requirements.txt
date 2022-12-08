@@ -4,7 +4,7 @@ awscli==1.11.70
 backcall==0.1.0
 bleach==2.1.4
 botocore==1.5.33
-certifi==2018.8.13
+certifi==2022.12.7
 chardet==3.0.4
 constantly==15.1.0
 decorator==4.3.0
